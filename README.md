@@ -1,3 +1,3 @@
 # findyourfood
 
-go live:- findyrfood.netlify.app
+go live:- https://findyrfood.netlify.app/
